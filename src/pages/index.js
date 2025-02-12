@@ -42,7 +42,7 @@ export default function Home() {
           muted
           className="absolute top-0 left-0 w-full h-full object-cover z-0"
         >
-          <source src="/video.mp4" type="video/mp4" />
+          <source src="/shortenedvid.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
         <div className="relative z-10 flex flex-col items-start justify-start min-h-screen p-8">
