@@ -44,7 +44,8 @@ export default function Layout({ children }) {
       </div>
       <main className="flex-grow">{children}</main>
       <footer className="p-4 text-center relative z-30 mt-auto">
-        @ Jackson Vondemkamp | Video material provided by <a href="https://www.hikingfex.com/videos" className="underline">HikingFex.com</a>
+        @ Jackson Vondemkamp | CC: <a href="https://www.pexels.com/video/icecaps-covering-the-mountains-ranges-3214448/" className="underline">Icecaps Covering The Mountains Ranges
+        </a>
       </footer>
     </div>
   );

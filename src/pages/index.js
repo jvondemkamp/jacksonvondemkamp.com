@@ -40,6 +40,7 @@ export default function Home() {
           autoPlay
           loop
           muted
+          playsInline
           className="absolute top-0 left-0 w-full h-full object-cover z-0"
         >
           <source src="/video2_o.mp4" type="video/mp4" />
@@ -103,7 +104,7 @@ export default function Home() {
       <div id="resume" className="content-section" style={{ fontFamily: 'Hind' }}>
         <h1 className="text-6xl font-bold">Resume</h1>
         <p className="mt-3 text-2xl">
-          View my professional resume.
+          View and download my resume!
         </p>
         <embed src="/Resume.pdf" type="application/pdf" width="100%" height="600px" className="mt-4 rounded-lg shadow-lg" />
         <a href="/Resume.pdf" download className="download-button mt-4">

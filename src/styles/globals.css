@@ -57,6 +57,13 @@ body.dark {
   width: 100%;
 }
 
+@media (max-width: 768px) {
+  .parallax {
+    background-attachment: scroll;
+    background-size: cover;
+  }
+}
+
 .content-section {
   padding: 50px;
   text-align: center;
