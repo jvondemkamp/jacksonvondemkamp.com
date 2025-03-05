@@ -83,7 +83,7 @@ export default function Home() {
           <div className="mt-8 md:mt-0 md:ml-8 text-center md:text-left">
             <h2 className="text-4xl font-bold">stan!</h2>
             <p className="mt-3 text-2xl">
-            A forum-style app where users share content and engage in usercreated communities centered around music.
+              A web application that allows users to search for their favorite artists and songs, and receive recommendations for similar music.
             </p>
           </div>
         </div>
@@ -92,7 +92,29 @@ export default function Home() {
           <div className="mt-8 md:mt-0 md:ml-8 text-center md:text-left">
             <h2 className="text-4xl font-bold">Personal Website</h2>
             <p className="mt-3 text-2xl">
-              Using Next.js, Tailwind CSS, and Vercel, I created this portfolio website to showcase my projects and resume.
+              Using Next.js, Tailwind CSS, and Netlify, I created this portfolio website to showcase my projects and resume.
+            </p>
+          </div>
+        </div>
+        <div className="mt-8 flex flex-col md:flex-row items-center justify-center">
+          <div className="mt-8 md:mt-0 md:ml-8 text-center md:text-left">
+            <h2 className="text-4xl font-bold">Memory Allocator</h2>
+            <p className="mt-3 text-2xl">
+              Developed a memory allocator for C programs using a red-black tree-based dynamic storage allocation technique, significantly improving allocation and deallocation speed with O(log n) time complexity.
+            </p>
+            <p className="mt-3 text-2xl">
+              Achieved a 30x performance improvement in memory management, minimizing fragmentation and optimizing allocation times for large datasets.
+            </p>
+          </div>
+        </div>
+        <div className="mt-8 flex flex-col md:flex-row items-center justify-center">
+          <div className="mt-8 md:mt-0 md:ml-8 text-center md:text-left">
+            <h2 className="text-4xl font-bold">Image Filter</h2>
+            <p className="mt-3 text-2xl">
+              Achieved a 25× speedup in image filtering by applying 2×2 loop unrolling, optimizing memory access, and reducing redundant computations.
+            </p>
+            <p className="mt-3 text-2xl">
+              Improved cache efficiency by restructuring loops to align with row-major storage, minimizing memory references and optimizing divisor calculations.
             </p>
           </div>
         </div>
@@ -106,8 +128,8 @@ export default function Home() {
         <p className="mt-3 text-2xl">
           View and download my resume!
         </p>
-        <embed src="/Resume.pdf" type="application/pdf" width="100%" height="600px" className="mt-4 rounded-lg shadow-lg" />
-        <a href="/Resume.pdf" download className="download-button mt-4">
+        <embed src="/jacksonvondemkamp-resume-2025.pdf" type="application/pdf" width="100%" height="600px" className="mt-4 rounded-lg shadow-lg" />
+        <a href="/jacksonvondemkamp-resume-2025.pdf" download className="download-button mt-4">
           Download Resume
         </a>
       </div>
