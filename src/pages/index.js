@@ -35,7 +35,7 @@ export default function Home() {
 
   return (
     <Layout>
-      <div id="home" className="parallax fade-out" style={{ backgroundImage: 'url(/2A63504D-10A3-409B-B206-30C317B0625E_1_102_a.jpeg)' }}>
+      <div id="home" className="parallax fade-out">
         <video
           autoPlay
           loop
@@ -92,7 +92,7 @@ export default function Home() {
           <div className="mt-8 md:mt-0 md:ml-8 text-center md:text-left">
             <h2 className="text-4xl font-bold">Personal Website</h2>
             <p className="mt-3 text-2xl">
-              This personal website showcases my projects and resume. It is built with modern web technologies and designed to be responsive and user-friendly.
+              Using Next.js, Tailwind CSS, and Vercel, I created this portfolio website to showcase my projects and resume.
             </p>
           </div>
         </div>
