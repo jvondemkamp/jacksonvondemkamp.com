@@ -1,0 +1,30 @@
+{
+  "name": "jacksonvondemkamp.com",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev -p 3000",
+    "build": "next build",
+    "start": "next start -p 3000",
+    "export-resume": "node scripts/extract_pdf_text.js ../Downloads/jackson_vondemkamp_resume_nov2025.pdf data/resume.txt",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvondemkamp/jacksonvondemkamp.com.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jvondemkamp/jacksonvondemkamp.com/issues"
+  },
+  "homepage": "https://github.com/jvondemkamp/jacksonvondemkamp.com#readme",
+  "description": "",
+  "dependencies": {
+    "next": "^16.0.5",
+    "pdf-parse": "^1.1.1",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  }
+}
