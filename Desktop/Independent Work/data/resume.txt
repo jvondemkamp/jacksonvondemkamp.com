@@ -1,0 +1,61 @@
+
+
+Jackson Vondemkamp
+Seattle, WA, Open to Relocation|(425) 387-7959|jacksonvondemkamp.tech@gmail.com
+|
+linkedin.com/in/jackson-vondemkamp
+|github.com/jvondemkamp|
+Education
+University of Colorado, BoulderAug 2023 – May 2027
+Bachelor of Science in Computer Science, Minor in Engineering EntrepreneurshipBoulder, CO
+Relevant Coursework|Software Dev Methods and Tools, Intro to AI, Machine Learning
+Algorithms, Data Structures, Database Systems, Computer Systems
+Technical Skills
+Languages:  Python, JavaScript/TypeScript, C/C++, SQL
+Frameworks:  React / React Native, Node.js / Express, Next.js, Tailwind CSS, Handlebars, Bootstrap
+Cloud/DevOps:  AWS (S3/CloudFront), Docker, Git/GitHub, GitHub Actions (CI/CD), Vercel/Netlify
+Data/DB: PostgreSQL, Supabase, MySQL
+Work Experience
+Business Assistant (Technology Focus)May 2025 – Sep 2025
+Red Light Therapy StudioStanwood, WA
+•
+Built a self-service booking and check-in system that expanded availability from 10 hr/day→24/7 with only∼2
+hr/day staffed coverage and cut no-shows 12%→5% via automated reminders.
+•
+Reworked the booking pipeline (QR onboarding, reminder cadence) and formalized a no-show policy, which
+correlated with +120% growth in active clients during my tenure and shifted usage toward self-service.
+Projects
+Festivalify|React Native, Supabase, Google Cloud Vision, OpenAI API, Spotify APIMay 2025 – Present
+•
+Piloted a mobile app that produces personalized festival schedules by resolving artist conflicts from scanned lineups
+•
+Introduced scheduling, notifications, and navigation features, releasing to early users in a beta launch phase.
+YumBoard|AWS S3, Node.js, PostgreSQL, Docker, Handlebars, BootstrapFeb 2025 – May 2025
+•
+Built a full-stack recipe sharing platform with 4-person team emphasizing agile methodology.
+•
+Leveraged technologies such as AWS S3, implementing scalable asset storage that reduced loading times by 40%
+when compared to local storage systems.
+Personal Portfolio|React, Next.js, Netlify, JavaScript, Tailwind CSSDec 2024 – Jan 2025
+•
+Designed and developed a responsive personal portfolio showcasing my resume, projects, and technical skills with
+an interactive user experience.
+•
+Optimized website performance by 20% using image and video compression, without any quality drawbacks.
+Memory Allocator|C, GitOct 2024 – Nov 2024
+•
+Engineered a memory allocator for C programs using a red-black tree-based dynamic storage allocation technique,
+significantly improving allocation and deallocation speed with O(log n) time complexity.
+•
+Achieved a 30x performance improvement in memory management, minimizing fragmentation and optimizing
+allocation times for large datasets.
+Certificates
+Google UX Design Professional Certificate–ETA Dec 2025
+Google Product Management:  Professional Certificate–ETA Jan 2026
+Databricks Generative AI Fundamentals
+Leadership & Community Development
+Executive BoardDec 2024 – Present
+Alpha Tau OmegaBoulder, CO
+•
+Co-led with organizing a 24-hour Veterans Day philanthropy event, successfully raising$3,425 and benefiting Salute
+Colorado in support of local veterans.
